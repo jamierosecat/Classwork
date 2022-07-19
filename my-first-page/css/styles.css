@@ -1,0 +1,31 @@
+body {
+    background-color:azure
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    color:rgb(97, 61, 182);
+}
+
+
+.lists {
+    border: 5px solid black;
+    height: 100%;
+    width: 30%;
+    background-color: rgb(205, 255, 226);
+    margin: 5%;
+    padding: 2%
+}
+
+#firstList {
+    color:rgb(199, 55, 180)
+}
+
+#secondList {
+    color:rgb(55, 134, 199)
+}
+
+
