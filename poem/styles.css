@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    text-align:center;
+    background-color: rgb(213, 235, 255);
+}
+
+h1 {
+    font-weight:400;
+    font-style: oblique;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+
+p {
+    line-height: 40px;
+    margin-bottom:2%
+}
+
+span {
+    margin-left: 7%;
+}
+
+#Jabberwock {
+    color:red
+}
