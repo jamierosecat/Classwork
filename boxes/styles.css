@@ -1,0 +1,19 @@
+div {
+    background-color: aliceblue;
+    margin: 12%;
+    padding: 5%;
+    border: 2px dotted violet;
+}
+
+.big-box, .little-box {
+    width:100px;
+    height:100px;
+}
+
+.big-box {
+    background-color: lightpink;
+}
+
+.little-box {
+    background-color: lightblue;
+}
